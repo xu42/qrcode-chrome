@@ -15,6 +15,6 @@
   "name": "QR-code generation",
   "permissions": [ "contextMenus", "tabs", "http://*/*", "https://*/*" ],
   "update_url":"http://clients2.google.com/service/update2/crx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "web_accessible_resources": ["js/*.js", "images/*.png"]
 }
